@@ -1,3 +1,7 @@
+/**
+ * @jest-environment jsdom
+ */
+
 // src/pages/Login.test.js
 // Tests based on actual Login.jsx logic using localStorage + quizUsers
 
