@@ -14,7 +14,7 @@ pipeline {
         // ─────────────────────────────────────────────
         stage('Clone Repository') {
             steps {
-                git branch: 'main', url: 'https://github.com/nikhilesh440/Coding_platform.git'
+                git branch: 'main', url: 'https://github.com/nikhilesh440/Coding-platform.git'
             }
         }
 
